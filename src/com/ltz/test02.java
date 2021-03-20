@@ -11,5 +11,6 @@ public class test02 {
         System.out.println("test2");
         System.out.println("test2");
         System.out.println("test c1");
+        System.out.println("c2 客户端操作test02");
     }
 }
